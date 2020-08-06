@@ -43,9 +43,9 @@ yarn ou npm install
 ````
 # Para startar a aplicação mobile
 yarn start
-
-# Obs.: vai abrir uma página, caso queira emular no aparelho físico, deverá habilitar o modo de desenvolvedor do aparelho e plugar no usb, e na página aberta clicar no Run on Android device/emulator ou apenas baixar o aplicativo do expo e escanear o QRCode.
 ````
+
+> Obs.: vai abrir uma página, caso queira emular no aparelho físico, deverá habilitar o modo de desenvolvedor do aparelho e plugar no usb, e na página aberta clicar no Run on Android device/emulator ou apenas baixar o aplicativo do expo e escanear o QRCode.
 
 ### 📑 Licença
 
