@@ -6,10 +6,6 @@
 
 > Mobile do **Proffy Application** desenvolvido na NWL #02 da RocketSeat, em homenagem aos professores!
 
-<p align="center">
-  <img src="img/app-finish.gif" alt="Next Level Week Gif" width="40%" />
-</p>
-
 ### 📄 O que foi usado:
 
 - Expo
